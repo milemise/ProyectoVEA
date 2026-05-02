@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_monitor"
+            android:title="Monitor de Flota" />
+        <item
+            android:id="@+id/nav_simulator"
+            android:title="Simulador de Órbita" />
+        <item
+            android:id="@+id/nav_security"
+            android:title="Terminal de Seguridad" />
+    </group>
+</menu>
